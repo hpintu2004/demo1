@@ -1,0 +1,3 @@
+hello pintu!
+Adding a new line change.
+Github tutorial May 10, 2016.
